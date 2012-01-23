@@ -10,6 +10,7 @@
 
 @interface new : NSObject {
 	int i;
+	int c;
 }
 
 @end
