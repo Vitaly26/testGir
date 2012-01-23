@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-@interface new : NSObject
+@interface new : NSObject {
+	int i;
+}
 
 @end
