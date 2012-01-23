@@ -12,6 +12,7 @@
 	int i;
 	int b;
 	int c;
+	int d;
 }
 
 @end
