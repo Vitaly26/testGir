@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController {
 	int i;
 	int b;
+	int c;
 }
 
 @end
