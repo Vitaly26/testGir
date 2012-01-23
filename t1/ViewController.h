@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController {
 	int i;
+	int b;
 }
 
 @end
