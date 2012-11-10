@@ -11,6 +11,7 @@
 @interface new : NSObject {
 	int i;
 	int c;
+	int d;
 }
 
 @end
